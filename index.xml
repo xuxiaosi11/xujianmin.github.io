@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://xujianmin.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2019 20:19:14 +0800</lastBuildDate>
+    
+	<atom:link href="http://xujianmin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://xujianmin.github.io/post/blog/</link>
+      <pubDate>Wed, 22 May 2019 20:19:14 +0800</pubDate>
+      
+      <guid>http://xujianmin.github.io/post/blog/</guid>
+      <description> 角 Angular是一个使用Typescript / JavaScript和其他语言构建移动和桌面Web应用程序的开发平台。
+快速开始 5分钟开始。
+更新日志 了解最新的改进。
+想帮忙？
+想要提交错误，提供一些代码或改进文档？优秀！阅读我们的贡献指南，然后查看热门列表中的一个问题：community-help。 </description>
+    </item>
+    
+  </channel>
+</rss>
